@@ -1,4 +1,5 @@
-For your *ImageTools* project, here are some interesting image effects and transformations you could implement, along with suggestions on the Python version:
+# ImageTools
+- by aMiscreant
 
 ### Suggested Python Version:
 - **Python 3.10 or higher**: This version offers the latest syntax features, performance improvements, and library compatibility, making it ideal for modern Python projects.
