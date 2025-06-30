@@ -143,4 +143,6 @@ To install most of these at once, use:
 pip install pillow opencv-python numpy matplotlib scikit-image imageio moviepy tqdm scipy dlib albumentations cairosvg pycairo click watchdog
 ```
 
+![your_image](https://github.com/user-attachments/assets/36b5ee57-9af3-42df-9a7a-a8960b1ae0b1)
+
 Make sure to verify your project's specific needs before installing all of these, as some might not be essential for initial development.
