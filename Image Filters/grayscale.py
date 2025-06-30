@@ -1,3 +1,5 @@
+# Insert script for image filters here
+# Example: Applying a grayscale.py filter using OpenCV
 import cv2
 import numpy as np
 import os
